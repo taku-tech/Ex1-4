@@ -31,20 +31,20 @@
 .side-left {
 	width: 230px;
 	height: 1400px;
-	background-color: limegreen;
+	background-color: palegreen;
 	float: left;
 }
 
 .center {
 	width: 500px;
 	height: 1400px;
-	background-color: green;
+	background-color: limegreen;
 	float: left;
 }
 
 .side-right {
 	width: 230px;
 	height: 1400px;
-	background-color: limegreen;
+	background-color: palegreen;
 	float: left;
 }
